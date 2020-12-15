@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom'
 class Filter extends React.Component{
 
     render(){
-        console.log();
+        
         return(
             <div className="row" >
                 
